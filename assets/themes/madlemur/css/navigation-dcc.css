@@ -1,0 +1,9 @@
+@import url('dcc-base.css');
+
+.content, .content h2, .content h3, .content h4, .content h5  {
+	font-family: "Book Antiqua", Palatino, "Palatino Linotype", "Palatino LT STD", Georgia, serif;
+}
+
+.container h1 {
+	font-family: DuvallNormal;
+}
