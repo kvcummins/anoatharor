@@ -12,3 +12,7 @@ icon: icon-globe
 Ruins of the Naerac Deeps
 ==========
 
+![River Gate][rivergate]{:class="img-thumbnail" title="Ruins - River Gate"}
+{:style="margin-left:1em; float:right;"}
+
+[rivergate]: /assets/img/ruins-river-gate.jpg
